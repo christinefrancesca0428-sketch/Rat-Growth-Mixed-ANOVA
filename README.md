@@ -11,7 +11,7 @@ This repository performs a two-way mixed-design repeated measures Analysis of Va
 * Conduct one-way ANOVAs and Tukey HSD tests at each week, as well as repeated-measures ANOVAs and paired t-tests (Holm-adjusted) within each treatment group.
 
 ## Dataset Description
-The analysis uses the long-format rats dataset from the nlmm R package (135 rows x 4 columns)
+The analysis uses the long-format rats dataset from the nlmm R package (135 rows x 4 columns).
 
 Group Sample Sizes:
 * Control: n=10 (50 observations)
