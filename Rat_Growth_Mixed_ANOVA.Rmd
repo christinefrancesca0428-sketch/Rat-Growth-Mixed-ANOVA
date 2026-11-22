@@ -1,16 +1,18 @@
-
 ---
 title: "Formative Assessment 11: Mixed-Design Repeated Measures ANOVA"
-subtitle: "BIO2105 - Biostatistics"
-author: "Condolon, Christine Francesca A., Llaneza, Stassja Jedwig M, & Khan, Ahmad Jonathan"
+author: Condolon, Christine Francesca A., Llaneza, Stassja Jedwig M, & Khan, Ahmad
+  Jonathan
 date: "`r Sys.Date()`"
 output:
+  pdf_document:
+    toc: true
   html_document:
     toc: true
     toc_float: true
     theme: flatly
     highlight: tango
     code_folding: show
+subtitle: "BIO2105 - Biostatistics"
 ---
 
 ```{r setup, include=FALSE}
@@ -257,7 +259,7 @@ rats %>%
 ## Central Research Question Conclusion
 
 > **Does the effect of treatment on rat body weight depend on the measurement occasion?**\
-> *Yes, the effect of treatment on rat body weight depends on the measurement occasion, as supported by the statistically significant interaction (F = 16.586, Greenhouse-Geisser corrected p = 1.73* \times 10\^-6). Biologically, this demonstrates that while all rat groups start at comparable baseline weights during the early weeks, prolonged exposure to Thiouracil suppresses normal weight gain relative to the Control and Thyroxin treatments by Weeks 3 and 4.
+> *Yes, the effect of treatment on rat body weight depends on the measurement occasion, as supported by the statistically significant interaction (F = 16.586, Greenhouse-Geisser corrected p = 1.73 x 10\^-6). Biologically, this demonstrates that while all rat groups start at comparable baseline weights during the early weeks, prolonged exposure to Thiouracil suppresses normal weight gain relative to the Control and Thyroxin treatments by Weeks 3 and 4.
 
 ------------------------------------------------------------------------
 
