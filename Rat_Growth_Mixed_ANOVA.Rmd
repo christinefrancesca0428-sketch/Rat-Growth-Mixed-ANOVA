@@ -258,7 +258,7 @@ rats %>%
 
 ## Central Research Question Conclusion
 
-> **Does the effect of treatment on rat body weight depend on the measurement occasion?**\
+> **Does the effect of treatment on rat body weight depend on the measurement occasion?**
 > *Yes, the effect of treatment on rat body weight depends on the measurement occasion, as supported by the statistically significant interaction (F = 16.586, Greenhouse-Geisser corrected p = 1.73 x 10\^-6). Biologically, this demonstrates that while all rat groups start at comparable baseline weights during the early weeks, prolonged exposure to Thiouracil suppresses normal weight gain relative to the Control and Thyroxin treatments by Weeks 3 and 4.
 
 ------------------------------------------------------------------------
